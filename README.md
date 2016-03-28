@@ -7,4 +7,4 @@ This is a simple project with Orika object mapper.
 
 You can see more about this in:
 
-* http://orika-mapper.github.io/orika-docs/converters.html[Orika Mapper]
+* [http://orika-mapper.github.io/orika-docs/converters.html](Orika Mapper)
